@@ -1,0 +1,64 @@
+Developer team:
+
+Dev: Miguel Arias
+
+Fecha: 20/11/2020
+
+1. ¿Qué has hecho desde la última reunión?
+Reunion para seleccion de roles respecto a la metodología ágil Scrum
+2. ¿Qué harás hoy?
+Reunion para creacion de repositorio y delegación de tareas.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+Se presentaron problemas a la hora del manejo de Git. Se busca a un asesor externo para resolver los inconvenientes.
+
+Fecha: 21/11/2020
+
+1. ¿Qué has hecho desde la última reunión?
+Reunion para creacion de repositorio y delegación de tareas.
+2. ¿Qué harás hoy?
+Reunion para creacion de repositorio, después de asesoría y resolución de inconvenientes.
+Se crea el proyecto.
+Se agregan algunas componentes iniciales a manera de ejemplo del uso de Git y desarrollo del proyecto.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+N/A.
+
+Fecha: 24/11/2020
+
+1. ¿Qué has hecho desde la última reunión?
+Creacion del proyecto.
+2. ¿Qué harás hoy?
+Agregar componentes nuevos para la página principal y modificar los existentes para ajustarlo al diseño del wireframe.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+N/A.
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Dev: Geivanny Ladino
+Fecha: **/**/****
+1. ¿Qué has hecho desde la última reunión?
+...
+2. ¿Qué harás hoy?
+...
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+...
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Dev: Hernan
+Fecha: **/**/****
+
+1. ¿Qué has hecho desde la última reunión?
+...
+2. ¿Qué harás hoy?
+...
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+...
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Dev: Juan
+Fecha: **/**/****
+1. ¿Qué has hecho desde la última reunión?
+...
+2. ¿Qué harás hoy?
+...
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+...
