@@ -6,13 +6,15 @@ import { NavigationMenuComponent } from './components/navigation-menu/navigation
 import { AboutComponent } from './components/about/about.component';
 import { appRouting } from './app.routes';
 import { HomeComponent } from './components/home/home.component';
+import { CarouselComponent } from './components/carousel/carousel.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavigationMenuComponent,
     AboutComponent,
-    HomeComponent
+    HomeComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,
