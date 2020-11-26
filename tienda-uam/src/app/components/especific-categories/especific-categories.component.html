@@ -1,14 +1,18 @@
 <div class="container">
-    <div class="jumbotron jumbotron-fluid">
+    <div class="jumbotron jumbotron-fluid" style="background-color:rgba(0, 0, 0, 0.527);">
         <div class="card-columns" >
       <div class="col text-center">
-      <div class="card" style="width: 18rem;" *ngFor="let Item of items; let i = index">
-        <img src="{{Item.img}}" class="card-img-top" alt="...">
+      <div class="card" style="width: 18rem;" *ngFor="let item of items; let i = index">
+
+        
+        <a class="nav-link" [routerLink]="['/item',i]">
+        <img src="{{item.img}}" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">{{Item.name}}</h5>
+          <h5 class="card-title">{{item.name}}</h5>
           
-          <a [routerLink]="['/Item',i]" class="btn btn-primary">ver mas</a>
+          
         </div>
+        </a>
       </div>
     </div>
       </div>
