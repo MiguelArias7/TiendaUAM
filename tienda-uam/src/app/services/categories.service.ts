@@ -7,18 +7,18 @@ export class CategoriesService {
 
   constructor() { }
 
-    private categories : category[] = 
+    private categories : Category[] = 
     [
       {
-          name: "Angular",
+          name: "Sombrillas",
           img: "./assets/images/test2.jpg",
       },
       {
-          name: "React",
+          name: "Chaquetas",
           img: "./assets/images/test2.jpg",
       },
       {
-          name: "Vue",
+          name: "Mugs",
           img: "./assets/images/test2.jpg",
       },
       {
@@ -43,9 +43,18 @@ export class CategoriesService {
       }
   ]
 
+  public getCategories()
+  {
+    return this.categories;
+  }
+
+  public getLabElement(index:string)
+  {
+    return this.categories[index];
+  }
 }
 
-export interface category
+export interface Category
 {
     name: string;    
     img: string;
