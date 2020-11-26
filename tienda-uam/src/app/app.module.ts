@@ -5,9 +5,12 @@ import { AppComponent } from './app.component';
 import { NavigationMenuComponent } from './components/navigation-menu/navigation-menu.component';
 import { AboutComponent } from './components/about/about.component';
 import { appRouting } from './app.routes';
+//Componentes
 import { HomeComponent } from './components/home/home.component';
 import { CarouselComponent } from './components/carousel/carousel.component';
 import { CardGroupComponent } from './components/card-group/card-group.component';
+//Servicios
+import { CategoriesService } from './services/categories.service';
 
 @NgModule({
   declarations: [
@@ -22,7 +25,9 @@ import { CardGroupComponent } from './components/card-group/card-group.component
     BrowserModule,
     appRouting
   ],
-  providers: [],
+  providers: [
+    CategoriesService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
