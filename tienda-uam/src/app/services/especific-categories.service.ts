@@ -19,14 +19,14 @@ export class EspecificCategoriesService {
       name:"chaqueta sin capota",
       ref:"C-002",
       description:"hecho en algodon ",
-      precio:"1200"
+      precio:"1300"
      },
      {
       img:"assets/images/imgChaquetas/C-003.jfif",
       name:"chaqueta tipo baseball",
       ref:"C-003",
       description:"hecho en algodon ",
-      precio:"1200"
+      precio:"1400"
 
      },
      {
@@ -34,7 +34,7 @@ export class EspecificCategoriesService {
          name:"saco clasico",
          ref:"C-004",
          description:"hecho en algodon ",
-         precio:"1200"
+         precio:"1500"
  
         },
         {
@@ -42,14 +42,14 @@ export class EspecificCategoriesService {
          name:"buso tipo americano",
          ref:"C-005",
          description:"hecho en algodon ",
-         precio:"1200"  
+         precio:"1600"  
         },
         {
          img:"assets/images/imgChaquetas/C-006.jfif",
          name:"buso sin bolsillos y logo grande",
          ref:"C-006",
          description:"hecho en algodon ",
-         precio:"1200"
+         precio:"1700"
  
         }
 
