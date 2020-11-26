@@ -31,6 +31,18 @@ Agregar componentes nuevos para la página principal y modificar los existentes 
 3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
 N/A.
 
+Fecha: 25/11/2020
+
+1. ¿Qué has hecho desde la última reunión?
+Ajustar formato del proyecto con el wireframe.
+2. ¿Qué harás hoy?
+Creación e implementación de servicio para cargar las categorías de la tienda.
+Adecuaciones para la página.
+Reunion con Scrum Master para contenido de la página.
+Creación de componentes de composición del formato de la página.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+N/A.
+
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Dev: Geivanny Ladino
