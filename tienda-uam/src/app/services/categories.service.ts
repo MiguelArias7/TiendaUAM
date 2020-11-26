@@ -10,36 +10,36 @@ export class CategoriesService {
     private categories : Category[] = 
     [
       {
-          name: "Sombrillas",
-          img: "./assets/images/test2.jpg",
+          name: "Chaquetas",
+          img: "./assets/images/chaquetas.jfif",
       },
       {
           name: "Chaquetas",
-          img: "./assets/images/test2.jpg",
+          img: "./assets/images/chaquetas.jfif",
       },
       {
-          name: "Mugs",
-          img: "./assets/images/test2.jpg",
+          name: "Chaquetas",
+          img: "./assets/images/chaquetas.jfif",
       },
       {
-          name: "Svelte",
-          img: "./assets/images/test2.jpg",
+          name: "Chaquetas",
+          img: "./assets/images/chaquetas.jfif",
       },
       {
-          name: "Laravel",
-          img: "./assets/images/test2.jpg",
+          name: "Chaquetasl",
+          img: "./assets/images/chaquetas.jfif",
       },
       {
-          name: "Spring",
-          img: "./assets/images/test2.jpg",
+          name: "Chaquetas",
+          img: "./assets/images/chaquetas.jfif",
       },
       {
-          name: "Express",
-          img: "./assets/images/test2.jpg",
+          name: "Chaquetas",
+          img: "./assets/images/chaquetas.jfif",
       },
       {
-          name: ".NET Core",
-          img: "./assets/images/test2.jpg",
+          name: "Chaquetas",
+          img: "./assets/images/chaquetas.jfif",
       }
   ]
 

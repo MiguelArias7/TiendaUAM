@@ -2,7 +2,9 @@
 
     <div class="card" *ngFor="let categorie of categories; let i = index">
 
+      <a class="nav-link" [routerLink]="['/especific-categories']">
         <img class="card-img-top" src="{{categorie.img}}" alt="Card image cap" >
+      
         
         <div class="card-body">
             <h5 class="card-title">{{categorie.name}}</h5>    
@@ -12,5 +14,11 @@
                   Ver más V2
                 </button> -->
         </div>
+      </a>
     </div>
   </div>
+
+
+
+
+  
