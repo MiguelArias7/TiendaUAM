@@ -12,6 +12,7 @@ import { CardGroupComponent } from './components/card-group/card-group.component
 //Servicios
 import { CategoriesService } from './services/categories.service';
 import { FooterComponent } from './components/footer/footer.component';
+import { EspecificCategoriesComponent } from './components/especific-categories/especific-categories.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { FooterComponent } from './components/footer/footer.component';
     HomeComponent,
     CarouselComponent,
     CardGroupComponent,
-    FooterComponent
+    FooterComponent,
+    EspecificCategoriesComponent
   ],
   imports: [
     BrowserModule,
