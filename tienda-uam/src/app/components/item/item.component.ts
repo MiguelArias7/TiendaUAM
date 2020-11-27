@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, EventEmitter, OnInit, Output } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import { CarServiceService } from 'src/app/services/car-service.service';
 import { EspecificCategoriesService } from 'src/app/services/especific-categories.service';
 
 @Component({
@@ -9,7 +10,10 @@ import { EspecificCategoriesService } from 'src/app/services/especific-categorie
 })
 export class ItemComponent implements OnInit {
       item:any={};
-  constructor(private activatedRoute:ActivatedRoute,private _especificCategoriesServices: EspecificCategoriesService) {
+      products: any[];
+      
+  constructor(private activatedRoute:ActivatedRoute,private _especificCategoriesServices: EspecificCategoriesService,
+   private _shoppingCarService: CarServiceService) {
 
     this.activatedRoute.params.subscribe(params=>{
 
@@ -19,6 +23,32 @@ export class ItemComponent implements OnInit {
    }
 
   ngOnInit(): void {
+    this.products=this._shoppingCarService.getProducts();
+  }
+  
+  agregarItem(item:any){
+    if (this.products.length==0) {
+      this._shoppingCarService.add(item);
+            console.log(this.products.length+"");
+    } else {
+      for (const producto in this.products) {
+        if(JSON.stringify(item) === JSON.stringify(producto)){
+         
+          return;
+        }
+       
+        else{
+          
+          this._shoppingCarService.add(item);
+          console.log("producto agregado");
+          return;
+        }
+      
+    }
+    }
+    
+    
+    
   }
 
 }

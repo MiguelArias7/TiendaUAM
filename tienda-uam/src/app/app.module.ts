@@ -14,6 +14,7 @@ import { CategoriesService } from './services/categories.service';
 import { FooterComponent } from './components/footer/footer.component';
 import { EspecificCategoriesComponent } from './components/especific-categories/especific-categories.component';
 import { ItemComponent } from './components/item/item.component';
+import { ShoppingCarComponent } from './components/shopping-car/shopping-car.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { ItemComponent } from './components/item/item.component';
     CardGroupComponent,
     FooterComponent,
     EspecificCategoriesComponent,
-    ItemComponent
+    ItemComponent,
+    ShoppingCarComponent
   ],
   imports: [
     BrowserModule,
