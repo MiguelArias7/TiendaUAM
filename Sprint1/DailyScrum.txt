@@ -56,14 +56,50 @@ Fecha: **/**/****
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Dev: Hernan
-Fecha: **/**/****
+Fecha: 20/11/2020
 
 1. ¿Qué has hecho desde la última reunión?
-...
+Designar roles con los integrantes del grupo de trabajo en la metodología Scrum.
 2. ¿Qué harás hoy?
-...
+Encuentro con el equipo de trabajo para asignación de tareas en la Plataforma Jira.
 3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
-...
+Falta de conocimiento en el uso de la plataforma Github.
+
+Fecha: 22/11/2020
+
+1. ¿Qué has hecho desde la última reunión?
+Creación de la cuenta en la plataforma Github & Jira, e inicio de planeación sobre las tareas asignadas en Jira.
+2. ¿Qué harás hoy?
+Asistir a asesoria del uso y manejo de un repositorio en la plataforma de Github con el equipo de desarrollo.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+N/A
+
+Fecha: 25/11/2020
+
+1. ¿Qué has hecho desde la última reunión?
+Creación del repositorio en el cual se va a desarrollar, vinculación desde Visual Studio Code con Github, practica del manejo de Github con los repositorios.
+2. ¿Qué harás hoy?
+Seleccionar los componentes que se implementarán en el desarrollo del proyecto, junto al equipo de desarrollo.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+N/A
+
+Fecha: 26/11/2020
+
+1. ¿Qué has hecho desde la última reunión?
+Inicio del desarrollo del proyecto, implementación de componentes básicos.
+2. ¿Qué harás hoy?
+Reunión con mi equipo de trabajo para distribución y desarrollo de tareas compartidas, elaboración del carrito de compras.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+N/A
+
+Fecha: 27/11/2020
+
+1. ¿Qué has hecho desde la última reunión?
+Elaboración exitosa del carrito de compras & del componente about con su respectiva información.
+2. ¿Qué harás hoy?
+Mejoramiento de detalles (título, espacios, color, etc ...) & verificación de cumplimiento de las tareas asignadas de la página para la entrega del 1er Sprint.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+N/A
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Dev: Juan
