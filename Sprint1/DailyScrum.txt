@@ -103,11 +103,22 @@ Fecha: **/**/****
 ...
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Dev: Geovani Ladino
-Fecha: 27/11/2020
+Fecha: 26/11/2020
 1. ¿Qué has hecho desde la última reunión?
-    El componente del carrito de compras y el servicio del carrito de compras
+    El componente del carrito de compras 
 2. ¿Qué harás hoy?
     Terminar el carrito de compras
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+    ninguno
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Dev: Geovani Ladino
+Fecha: 27/11/2020
+1. ¿Qué has hecho desde la última reunión?
+    el carrito de compras
+2. ¿Qué harás hoy?
+    el servicio edl carrito de compras, y conectarlo con el carrito de compras
+    el servicio del carrito de compras
 3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
     comparar correctamente dos objetos para que en el carrito no se agreguen el mismo item dos veces.
 
