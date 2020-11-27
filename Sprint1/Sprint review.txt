@@ -1,4 +1,8 @@
 Objetivo de la iteración: 
+    -crear interfaz inicial
+    -crear seccion about
+    -comprar un producto
+    -ofertar un producto
 
 Resultados obtenidos: 
 
