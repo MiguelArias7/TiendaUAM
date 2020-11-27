@@ -5,7 +5,11 @@ Objetivo de la iteración:
     -ofertar un producto
 
 Resultados obtenidos: 
-
+Se pudo desarrollar cada una de las tareas y que faltan algunos ajustes visuales. 
 Problemas identificados:
-
+- Faltan validaciones en la parte del carrito de compras
+- Dificultad con manejo de GitHub
 Cómo se resolvieron:
+- Reuniones para el uso y desmotraciones de GitHub
+- Pidiendo ayuda a los compañeros para resolver dudas o inconvenientes
+
