@@ -1,0 +1,7 @@
+1. ¿Que salió bien en el Sprint I?
+- Se pudo cumplir con lo acordado (requerimientos)
+- Se resolvieron dudas puntuales con ayuda de compañeros
+2. ¿Que se puede mejorar?
+- Faltan detalles por pulir, pero la parte funcional está casi completa.
+3. ¿En qué nos comprometemos a mejorar en el próximo Sprint?
+- Solucionar posibles errores o detalles faltantes en la parte del desarrollo y diseño.

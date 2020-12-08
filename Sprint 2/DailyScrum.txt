@@ -1,0 +1,49 @@
+Developer team:
+
+Dev: Miguel Arias
+
+Fecha: 7/12/2020
+
+1. ¿Qué has hecho desde la última reunión?
+Reunion para seleccion de roles respecto a la metodología ágil Scrum.
+Divisón de tareas en miembros del grupo.
+2. ¿Qué harás hoy?
+Creación de documentos para documentación Sprint.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+N/A.
+
+Fecha: 8/12/2020
+
+1. ¿Qué has hecho desde la última reunión?
+Creación de documentos para documentación Sprint.
+Divisón de tareas en miembros del grupo.
+2. ¿Qué harás hoy?
+Servicio para el componente Carousel.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+Desconocimiento de algunas directrices del framework Angular, leer sobre documentación.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dev: NOMBRE
+Fecha: XX/12/2020
+
+1. ¿Qué has hecho desde la última reunión?
+2. ¿Qué harás hoy?
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dev: NOMBRE
+Fecha: XX/12/2020
+
+1. ¿Qué has hecho desde la última reunión?
+2. ¿Qué harás hoy?
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dev: NOMBRE
+Fecha: XX/12/2020
+
+1. ¿Qué has hecho desde la última reunión?
+2. ¿Qué harás hoy?
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
