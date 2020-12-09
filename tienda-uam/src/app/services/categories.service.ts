@@ -14,33 +14,22 @@ export class CategoriesService {
           img: "./assets/images/chaquetas.jfif",
       },
       {
-          name: "Chaquetas",
-          img: "./assets/images/chaquetas.jfif",
+          name: "Sombrillas",
+          img: "./assets/images/imgSombrillas/categoria.jpg",
       },
       {
-          name: "Chaquetas",
-          img: "./assets/images/chaquetas.jfif",
+          name: "Gorros",
+          img: "./assets/images/imgGorros/categoria.jpg",
       },
       {
-          name: "Chaquetas",
-          img: "./assets/images/chaquetas.jfif",
+          name: "tazas",
+          img: "./assets/images/imgTazas/categoria.jpg",
       },
       {
-          name: "Chaquetasl",
-          img: "./assets/images/chaquetas.jfif",
+          name: "termos",
+          img: "./assets/images/termos.jpg",
       },
-      {
-          name: "Chaquetas",
-          img: "./assets/images/chaquetas.jfif",
-      },
-      {
-          name: "Chaquetas",
-          img: "./assets/images/chaquetas.jfif",
-      },
-      {
-          name: "Chaquetas",
-          img: "./assets/images/chaquetas.jfif",
-      }
+  
   ]
 
   public getCategories()

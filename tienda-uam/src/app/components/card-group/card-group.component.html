@@ -1,9 +1,9 @@
-<div class="card-columns">
+<div class="card-columns ">
 
     <div class="card" *ngFor="let categorie of categories; let i = index">
 
-      <a class="nav-link" [routerLink]="['/especific-categories']">
-        <img class="card-img-top" src="{{categorie.img}}" alt="Card image cap" >
+      <a class="nav-link" [routerLink]="['/especific-categories',i]">
+        <img class="card-img-top" src="{{categorie.img}}" alt="Card image cap" height="300">
       
         
         <div class="card-body">
@@ -16,6 +16,7 @@
         </div>
       </a>
     </div>
+  
   </div>
 
 
