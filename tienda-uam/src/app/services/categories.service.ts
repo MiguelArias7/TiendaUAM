@@ -22,11 +22,11 @@ export class CategoriesService {
           img: "./assets/images/imgGorros/categoria.jpg",
       },
       {
-          name: "tazas",
+          name: "Tazas",
           img: "./assets/images/imgTazas/categoria.jpg",
       },
       {
-          name: "termos",
+          name: "Termos",
           img: "./assets/images/termos.jpg",
       },
   
