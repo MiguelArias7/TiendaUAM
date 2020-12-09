@@ -24,17 +24,44 @@ Desconocimiento de algunas directrices del framework Angular, leer sobre documen
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Dev: NOMBRE
-Fecha: XX/12/2020
+Dev: Hernán José Romero Vásquez
+Fecha: 4/12/2020
 
 1. ¿Qué has hecho desde la última reunión?
+R=/ Desarrollo del 1er Sprint
 2. ¿Qué harás hoy?
+R=/ Reunión con el equipo de trabajar para observar los resultados del 1er Sprint & Encuentro con el equipo de trabajo para el cambio de roles.
 3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+R=/ N/A
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dev: Hernán José Romero Vásquez
+Fecha: 8/12/2020
+
+1. ¿Qué has hecho desde la última reunión?
+R=/ Planeación y distribución de tareas para el 2do Sprint
+2. ¿Qué harás hoy?
+R=/ Desarrollo de las tareas asignadas en Jira: Desarrollo e implementación del componenete Footer.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+R=/ N/A
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dev: Hernán José Romero Vásquez
+Fecha: 9/12/2020
+
+1. ¿Qué has hecho desde la última reunión?
+R=/ Desarrollo e implementación del componenete Footer & Ajuste de pequeños detalles de información.
+2. ¿Qué harás hoy?
+R=/ Desarrollo de las tareas asignadas en Jira: Diseño e implementación de imágenes para el componenete Carrusel (Publicidad) & Finalización del 2do Sprint.
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+R=/ N/A
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Dev: NOMBRE
-Fecha: XX/12/2020
+Fecha: 7/12/2020
 
 1. ¿Qué has hecho desde la última reunión?
 2. ¿Qué harás hoy?
