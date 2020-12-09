@@ -11,19 +11,19 @@ export class NewsAndSalesService {
   [
     {
       name:"Rebaja 1",
-      img:"./assets/images/test_files/test.jpg"
+      img:"./assets/images/test_files/test.png"
     },
     {
       name:"Rebaja 2",
-      img:"./assets/images/test_files/test2.jpg"
+      img:"./assets/images/test_files/test2.png"
     },
     {
       name:"Rebaja 3",
-      img:"./assets/images/test_files/test3.jpg"
+      img:"./assets/images/test_files/test3.png"
     },
     {
       name:"Rebaja 4",
-      img:"./assets/images/test_files/test4.jpg"
+      img:"./assets/images/test_files/test4.png"
     }
   ]
 
