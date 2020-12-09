@@ -3,8 +3,8 @@ import { Injectable } from '@angular/core';
 @Injectable({
   providedIn: 'root'
 })
-export class EspecificCategoriesService {
-  private especificCategories: Item[]=[
+export class jacketsService {
+  private jackets: Item[]=[
 
     {
       img:"assets/images/imgChaquetas/C-001.jfif",
@@ -57,10 +57,10 @@ export class EspecificCategoriesService {
 
       
   public getChaquetas(){
-    return this.especificCategories;
+    return this.jackets;
   }
   public getChaqueta(index:string){
-    return this.especificCategories[index];
+    return this.jackets[index];
   }
   constructor() { }
 }

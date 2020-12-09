@@ -5,9 +5,10 @@ import { HomeComponent } from './components/home/home.component';
 import { ItemComponent } from './components/item/item.component';
 import { ShoppingCarComponent } from './components/shopping-car/shopping-car.component';
 
+
 const routes: Routes = [
     { path: 'home', component: HomeComponent },
-    { path: 'especific-categories', component: EspecificCategoriesComponent},
+    { path: 'especific-categories/:id', component: EspecificCategoriesComponent},
     { path: 'item/:id', component: ItemComponent }, 
     { path: 'about', component: AboutComponent },
     { path: 'shopping-car', component: ShoppingCarComponent},

@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
+import { CategoriaEspecificaService } from 'src/app/services/categoria-especifica.service';
 import { CategoriesService } from 'src/app/services/categories.service';
-import { EspecificCategoriesService, Item } from 'src/app/services/especific-categories.service';
+import { jacketsService, Item } from 'src/app/services/jackets.service';
 
 @Component({
   selector: 'app-especific-categories',
@@ -10,13 +11,20 @@ import { EspecificCategoriesService, Item } from 'src/app/services/especific-cat
 })
 export class EspecificCategoriesComponent implements OnInit {
       items: Item[]=[];
-  constructor(private _especificCategoriesServices: EspecificCategoriesService, private router:Router) { }
+      
+  constructor(private activatedRoute:ActivatedRoute,private _especificCategoriesServices: CategoriaEspecificaService, private router:Router) {
+    this.activatedRoute.params.subscribe(params=>{
+
+      this.items=this._especificCategoriesServices.pedirCategoria(params['id']);
+    });
+    console.log(this.items);
+   }
 
   ngOnInit(): void {
-    this.items=this._especificCategoriesServices.getChaquetas();
+    
   }
    
-  verChaqueta(index:number){
+  verItem(index:number){
     this.router.navigate(['Item',index]);
   }
 }
