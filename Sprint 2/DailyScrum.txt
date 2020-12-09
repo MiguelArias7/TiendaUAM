@@ -61,12 +61,25 @@ R=/ N/A
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Dev: juan david marulanda
-Fecha: 7/12/2020
+Fecha: 5/12/2020
 
 1. ¿Qué has hecho desde la última reunión?
 implementar componentes de items en especifico
 2. ¿Qué harás hoy?
-conectar el componente de categoria especifica con los componentes que lo relacionan
+conectar primera parte de el componente de categoria especifica con los componentes que lo relacionan
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+falta de experiencia y conocimientos con angular
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dev: juan david marulanda
+Fecha: 7/12/2020
+
+1. ¿Qué has hecho desde la última reunión?
+implementar componentes de items en especifico y primera parte de enrutamiento
+2. ¿Qué harás hoy?
+conectar por completo el componente de categoria especifica con los componentes que lo relacionan
 3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
 falta de experiencia y conocimientos con angular
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
