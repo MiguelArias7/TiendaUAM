@@ -71,9 +71,12 @@ conectar el componente de categoria especifica con los componentes que lo relaci
 falta de experiencia y conocimientos con angular
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Dev: NOMBRE
-Fecha: XX/12/2020
+Dev: Geovani Andres Ladino Orrego
+Fecha: 09/12/2020
 
 1. ¿Qué has hecho desde la última reunión?
+    descargar imagenes para las categorias
 2. ¿Qué harás hoy?
-3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
+    agregar las categorias, conectandolas con servicios 
+3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?+
+    ninguno
